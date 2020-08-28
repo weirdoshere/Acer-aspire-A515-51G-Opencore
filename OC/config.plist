@@ -474,6 +474,11 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x1)</key>
+			<dict>
+				<key>built-in</key>
+				<data>AQ==</data>
+			</dict>
 		</dict>
 		<key>Block</key>
 		<dict/>
@@ -1027,7 +1032,7 @@
 			<key>MLB</key>
 			<string>C02020403GUN9PRA8</string>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data>JV5pd13C</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -1072,7 +1077,7 @@
 			<key>AudioSupport</key>
 			<true/>
 			<key>MinimumVolume</key>
-			<integer>30</integer>
+			<integer>70</integer>
 			<key>PlayChime</key>
 			<true/>
 			<key>VolumeAmplifier</key>
